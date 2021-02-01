@@ -218,6 +218,7 @@ img {
   align-items: center;
   height: 120px;
   background-color: var(--bg-color-secondary);
+  border-radius: 4px;
   margin-bottom: 30px;
 }
 
